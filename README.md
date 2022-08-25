@@ -75,4 +75,7 @@ setInterval(function() {
 ```
 
 ## Tell me more
+
+The code is based on this micro:bit voting project: https://www.espruino.com/MicroBit+Voting
+
 Here's a bit more information in my blogpost: http://www.suppertime.co.uk/blogmywiki/2022/08/microbit-remote-bluetooth-temperature-sensor/ 
