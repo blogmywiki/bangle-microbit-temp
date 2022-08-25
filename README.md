@@ -18,6 +18,18 @@ So you have a few options:
 - open this published project: https://makecode.microbit.org/_F48YvbPqdaqs
 - switch to JavaScript text mode, enter the Typescript code and switch back to blocks.
 
+```
+loops.everyInterval(60000, function () {
+    basic.showIcon(IconNames.Heart)
+    bluetooth.advertiseUrl(
+    "https://microbit.org#" + convertToText(input.temperature()),
+    7,
+    false
+    )
+    basic.clearScreen()
+})
+```
+
 
 ### BangleJS watch or other Espruino device
 Open the IDE and send the JS code in this repo to the device. 
