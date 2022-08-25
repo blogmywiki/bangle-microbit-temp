@@ -21,3 +21,6 @@ So you have a few options:
 
 ### BangleJS watch or other Espruino device
 Open the IDE and send the JS code in this repo to the device. 
+
+## Tell me more
+Here's a bit more information in my blogpost: http://www.suppertime.co.uk/blogmywiki/2022/08/microbit-remote-bluetooth-temperature-sensor/ 
