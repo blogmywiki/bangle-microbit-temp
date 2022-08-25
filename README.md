@@ -30,6 +30,7 @@ loops.everyInterval(60000, function () {
 })
 ```
 
+![MakeCode blocks](bangleJS-temp-makecode.png)
 
 ### BangleJS watch or other Espruino device
 Open the IDE and send the JS code in this repo to the device. 
